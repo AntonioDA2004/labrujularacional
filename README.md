@@ -1,4 +1,4 @@
-<h1>La Brújula Racional <img src="LBR_Icon.png" alt="Icon" width="20"> </h1> 
+<h1>La Brújula Racional <img src="LBR_Icon.png" alt="Icon" width="25"> </h1> 
 
 ¡Bienvenido/a al repositorio de <b>La Brújula Racional</b>!
 
