@@ -1,4 +1,4 @@
-<h1>La Brújula Racional</h1>
+<h1>La Brújula Racional <img src="LBR_Icon.png" alt="Icon" width="20"> </h1> 
 
 ¡Bienvenido/a al repositorio de <b>La Brújula Racional</b>!
 
@@ -20,4 +20,4 @@ Encuentra aquí los apuntes: [Apuntes financieros](Apuntes).
 
 Encuentra aquí el grupo de WhatsApp para este tema: [Grupo 3 de WhatsApp](example.com).
 
-<img src="LBR_Icon.png" alt="Icon" width="20" style="vertical-align: middle;"> <b>LBR 2025 </b> &copy;
+<b>LBR 2025 </b> &copy;
