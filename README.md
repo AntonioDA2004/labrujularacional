@@ -10,14 +10,17 @@ Encuentra aquí el grupo de WhatsApp para este tema: [Grupo 1 de WhatsApp](examp
 
 <h2>Contenidos de los cursos</h2>
 
-
 Encuentra aquí el grupo de WhatsApp para este tema: [Grupo 2 de WhatsApp](example.com).
 
 Encuentra aquí los apuntes: [Apuntes financieros](Apuntes).
 
 <h2>Área de preguntas y dudas</h2>
 
-
 Encuentra aquí el grupo de WhatsApp para este tema: [Grupo 3 de WhatsApp](example.com).
+
+<h2>Trading bots</h2>
+
+Encuentra aquí nuestros bots de trading: 
+- [Alpaca Paper Trading](https://github.com/AntonioDA2004/trading-bot-apalancado)
 
 <b>LBR 2025 </b> &copy;
